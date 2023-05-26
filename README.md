@@ -1,5 +1,5 @@
 # Close-Windows-Popup
-VBS Script to close (ALT+F4) Windows popup window
+Visual Basic Script to close (ALT+F4) anoying popup window in MS Windows.
 
 ## Configuring
 Replace `YourApp` with the name of the application/Window you want to close.
