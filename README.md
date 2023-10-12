@@ -2,8 +2,10 @@
 Visual Basic Script to close (ALT+F4) anoying popup window in MS Windows.
 
 ## Configuring
-Replace `YourApp` with the name of the application/Window you want to close.
-https://github.com/TBuryanek/Close-Windows-Popup/blob/043cc369f22e22810e8ade29fcb633af5983794e/src/close_popup.vbs#L4
+Replace `YourApp` with the name of the application/Window:
+https://github.com/TBuryanek/Close-Windows-Popup/blob/d7cf88c7dc666fd851da63915a2977de570e4015/src/close_popup.vbs#L4
+Replace `YourApp.exe` with the name of the Task / App:
+https://github.com/TBuryanek/Close-Windows-Popup/blob/d7cf88c7dc666fd851da63915a2977de570e4015/src/close_popup.vbs#L9
 
 Then you can execute / set this VBS script to run.
 
